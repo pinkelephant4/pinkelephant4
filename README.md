@@ -76,7 +76,8 @@
   </a> &nbsp;
   
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  alt="express" width="40" height="40" />     
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  alt="express" width="40" height="40" />      -->
+    <img src="https://cdn.simpleicons.org/express/black/white"  alt="express" width="40" height="40" />     
   </a> &nbsp;
   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
