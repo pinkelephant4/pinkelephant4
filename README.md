@@ -201,9 +201,14 @@
 </details> 
 
 <details> 
-  <summary><h3>🏷️ Holopin Badges</h3></summary>
+  <summary><h3>🏷️Holopin Badges</h3></summary>
+<!--   <p>
+    <a href="https://www.holopin.io/@pinkelephant4#">
+      <img src="https://holopin.io/@pinkelephant4" alt="holopin.io/@pinkelephant4's Holopin board">
+    </a>
+  </p> -->
 
-  <p><a href="https://www.holopin.io/@pinkelephant4#"><img src="https://holopin.io/@pinkelephant4" alt="holopin.io/@pinkelephant4's Holopin board"></a></p>
+  [![An image of @pinkelephant4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pinkelephant4)](https://holopin.io/@pinkelephant4)
 </details>
 
 
