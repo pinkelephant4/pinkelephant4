@@ -186,12 +186,12 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api/top-langs?username=pinkelephant4&show_icons=true&locale=en&layout=compact" alt="pinkelephant4" />
+  <img align="center" src="https:/github-readme-stats-gold-phi.vercel.app/api/top-langs?username=pinkelephant4&show_icons=true&locale=en&layout=compact" alt="pinkelephant4" />
 </p>
 
 
 <p>
-  <img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api?username=pinkelephant4&show_icons=true&locale=en" alt="pinkelephant4" />
+  <img align="center" src="https://github-readme-stats-gold-phi.vercel.app/api?username=pinkelephant4&show_icons=true&locale=en" alt="pinkelephant4" />
 </p>
 
 <p  align="center">
