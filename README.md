@@ -200,6 +200,12 @@
   </p>
 </details> 
 
+<details> 
+  <summary><h3>🏷️ Holopin Badges</h3></summary>
+
+  <p><a href="https://www.holopin.io/@pinkelephant4#"><img src="https://holopin.io/@pinkelephant4" alt="holopin.io/@pinkelephant4's Holopin board"></a></p>
+</details>
+
 
 
 
