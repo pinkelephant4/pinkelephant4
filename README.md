@@ -191,16 +191,17 @@
 
 
 <p>
-  <img align="center" src="https:/github-readme-stats-gold-phi.vercel.app/api/top-langs?username=pinkelephant4&show_icons=true&locale=en&layout=compact" alt="pinkelephant4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkelephant4&show_icons=true&locale=en&layout=donut&theme=chartreuse-dark" alt="pinkelephant4" />
 </p>
 
 
 <p>
-  <img align="center" src="https://github-readme-stats-gold-phi.vercel.app/api?username=pinkelephant4&show_icons=true&locale=en" alt="pinkelephant4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkelephant4&theme=chartreuse-dark&show_icons=true&locale=en" alt="pinkelephant4" />  
 </p>
 
+
 <p  align="center">
-  <img align="center" src="https://github-readme-streak-stats-pinkelephant4.vercel.app?user=pinkelephant4&theme=github-dark&date_format=j%20M%5B%20Y%5D)" alt="pinkelephant4" />
+  <img src="https://github-readme-streak-stats-xahe.vercel.app?user=pinkelephant4&theme=github-dark&date_format=j%20M%5B%20Y%5D" alt="pinkelephant4" />
 </p>
 
 
