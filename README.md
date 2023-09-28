@@ -35,12 +35,12 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pinkelephant4&show_icons=true&locale=en&layout=compact" alt="pinkelephant4" /></p>
+<p><img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api/top-langs?username=pinkelephant4&show_icons=true&locale=en&layout=compact" alt="pinkelephant4" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pinkelephant4&show_icons=true&locale=en" alt="pinkelephant4" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api?username=pinkelephant4&show_icons=true&locale=en" alt="pinkelephant4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pinkelephant4&" alt="pinkelephant4" /></p>
+<p><img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/?user=pinkelephant4&" alt="pinkelephant4" /></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkelephant4" alt="pinkelephant4" /></a> </p>
