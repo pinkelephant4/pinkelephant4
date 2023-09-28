@@ -40,10 +40,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api?username=pinkelephant4&show_icons=true&locale=en" alt="pinkelephant4" /></p>
 
-<p><img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/?user=pinkelephant4&" alt="pinkelephant4" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=pinkelephant4&theme=dark" alt="pinkelephant4" /></p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkelephant4" alt="pinkelephant4" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkelephant4&show_icons=true" alt="pinkelephant4" /></a> </p>
 
 
 
