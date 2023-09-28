@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maheshwriananya" target="blank">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/X/white/black" alt="maheshwriananya" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/X/black/white" alt="maheshwriananya" />
 </a>&nbsp;
 <a href="https://linkedin.com/in/ananya-maheshwari-445158225" target="blank">
     <img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn/#0A66C2/" />
