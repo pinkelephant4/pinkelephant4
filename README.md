@@ -47,7 +47,8 @@
   </a> &nbsp;
   
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">     
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />      
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />       -->
+    <img src="https://cdn.simpleicons.org/amazonaws/#232F3E/white" alt="aws" width="40" height="40" />      
   </a> &nbsp;
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
