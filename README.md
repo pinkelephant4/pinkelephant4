@@ -180,16 +180,16 @@
 <details> 
   <summary><h3 align="left">📊Github Statistics:</h3></summary>
   <br/>
-  <p align="center"> 
+  <p > 
       <img src="https://github-profile-trophy.vercel.app/?username=pinkelephant4&show_icons=true&row=1&margin-w=15&theme=onedark&no-bg=true" alt="pinkelephant4" />
   </p>
+  <br/>
   <p>
-    <img src="https://github-readme-stats-pinkelephant4.vercel.app/api/top-langs?username=pinkelephant4&show_icons=true&locale=en&layout=donut&theme=chartreuse-dark" alt="pinkelephant4" />
+    <img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api/top-langs?username=pinkelephant4&show_icons=true&locale=en&layout=donut&theme=chartreuse-dark" alt="pinkelephant4" height="192px" />
+    <img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api?username=pinkelephant4&theme=chartreuse-dark&show_icons=true&locale=en" alt="pinkelephant4" height="192px"/>  
   </p>
-  <p>
-    <img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api?username=pinkelephant4&theme=chartreuse-dark&show_icons=true&locale=en" alt="pinkelephant4" />  
-  </p>
-  <p  align="center">
+  <br/>
+  <p >
     <img src="https://github-readme-streak-stats-xahe.vercel.app?user=pinkelephant4&theme=github-dark&date_format=j%20M%5B%20Y%5D" alt="pinkelephant4" />
   </p>
 </details> 
