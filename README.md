@@ -20,25 +20,24 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/maheshwriananya" target="blank">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/X/black/white" alt="maheshwriananya" />
-</a>&nbsp;
-<a href="https://linkedin.com/in/ananya-maheshwari-445158225" target="blank">
+  <a href="https://twitter.com/maheshwriananya" target="blank">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/X/black/white" alt="maheshwriananya" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/ananya-maheshwari-445158225" target="blank">
     <img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn/#0A66C2/" />
-</a>&nbsp;
-<a href="https://www.leetcode.com/pink_elephant01" target="blank">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/LeetCode/#FFA116/" />
-</a>&nbsp;
+  </a>&nbsp;
   <a href="https://www.leetcode.com/pink_elephant01" target="blank">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/Discord/#5865F2/" />
-</a>&nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/LeetCode/#FFA116/" />
+  </a>&nbsp;
+  <a href="https://www.leetcode.com/pink_elephant01" target="blank">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/Discord/#5865F2/" />
+  </a>&nbsp;
 </p>
 
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
+<p align="left">  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> &nbsp;
@@ -146,8 +145,7 @@
    <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="jupyter" width="40" height="40" />          
   </a> &nbsp;
-           
-  
+
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a> &nbsp;
@@ -175,35 +173,26 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a> 
-  
 </p>
-<br/>
-
-
-
-<h3 align="left">Statistics:</h3>
 
 <br/>
 
-<p align="center"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=pinkelephant4&show_icons=true&row=1&margin-w=15&theme=onedark&no-bg=true" alt="pinkelephant4" />
-</p>
-
-
-<p>
-  <img src="https://github-readme-stats-pinkelephant4.vercel.app/api/top-langs?username=pinkelephant4&show_icons=true&locale=en&layout=donut&theme=chartreuse-dark" alt="pinkelephant4" />
-</p>
-
-
-<p>
-  <img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api?username=pinkelephant4&theme=chartreuse-dark&show_icons=true&locale=en" alt="pinkelephant4" />  
-</p>
-
-
-<p  align="center">
-  <img src="https://github-readme-streak-stats-xahe.vercel.app?user=pinkelephant4&theme=github-dark&date_format=j%20M%5B%20Y%5D" alt="pinkelephant4" />
-</p>
-
+<details> 
+  <summary><h3 align="left">📊Github Statistics:</h3></summary>
+  <br/>
+  <p align="center"> 
+      <img src="https://github-profile-trophy.vercel.app/?username=pinkelephant4&show_icons=true&row=1&margin-w=15&theme=onedark&no-bg=true" alt="pinkelephant4" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats-pinkelephant4.vercel.app/api/top-langs?username=pinkelephant4&show_icons=true&locale=en&layout=donut&theme=chartreuse-dark" alt="pinkelephant4" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api?username=pinkelephant4&theme=chartreuse-dark&show_icons=true&locale=en" alt="pinkelephant4" />  
+  </p>
+  <p  align="center">
+    <img src="https://github-readme-streak-stats-xahe.vercel.app?user=pinkelephant4&theme=github-dark&date_format=j%20M%5B%20Y%5D" alt="pinkelephant4" />
+  </p>
+</details> 
 
 
 
