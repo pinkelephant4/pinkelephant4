@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ananya Maheshwari</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=An+Ardent+Developer,;MERN+Stack,;Computer+Science+Student,;Zealous+Learner,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6BD425&size=25&center=true&vCenter=true&width=600&height=100&lines=An+Ardent+Developer,;MERN+Stack,;Computer+Science+Student,;Zealous+Learner,;"></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkelephant4&label=Profile%20views&color=0e75b6&style=flat" alt="pinkelephant4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkelephant4&label=Profile%20views&color=6bd425&style=for-the-badge" alt="pinkelephant4" /> </p>
 
 
 - 🔭 I’m currently working on **a Web Application**
@@ -20,9 +20,18 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/maheshwriananya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maheshwriananya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ananya-maheshwari-445158225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya-maheshwari-445158225" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pink_elephant01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pink_elephant01" height="30" width="40" /></a>
+<a href="https://twitter.com/maheshwriananya" target="blank">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/X/white/black" alt="maheshwriananya" />
+</a>&nbsp;
+<a href="https://linkedin.com/in/ananya-maheshwari-445158225" target="blank">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/LinkedIn/#0A66C2/" />
+</a>&nbsp;
+<a href="https://www.leetcode.com/pink_elephant01" target="blank">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/LeetCode/#FFA116/" />
+</a>&nbsp;
+  <a href="https://www.leetcode.com/pink_elephant01" target="blank">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/Discord/#5865F2/" />
+</a>&nbsp;
 </p>
 
 <br/>
@@ -40,8 +49,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api?username=pinkelephant4&show_icons=true&locale=en" alt="pinkelephant4" /></p>
 
-<p><img align="center" src="[https://streak-stats.demolab.com/?user=pinkelephant4&theme=dark](https://github-readme-streak-stats-rho-taupe.vercel.app?user=pinkelephant4&theme=violet-dark&date_format=j%20M%5B%20Y%5D)" alt="pinkelephant4" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats-pinkelephant4.vercel.app?user=pinkelephant4&theme=light&date_format=j%20M%5B%20Y%5D)" alt="pinkelephant4" /></p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkelephant4&show_icons=true" alt="pinkelephant4" /></a> </p>
