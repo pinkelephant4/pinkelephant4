@@ -18,7 +18,9 @@
 
 
 <br/>
-<h3 align="left">Connect with me:</h3>
+<details open> 
+  <summary><h3 align="left">🤝Connect with me:</h3></summary>
+
 <p align="left">
   <a href="https://twitter.com/maheshwriananya" target="blank">
     <img height="32" width="32" src="https://cdn.simpleicons.org/X/black/white" alt="maheshwriananya" />
@@ -33,10 +35,13 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/Discord/#5865F2/" />
   </a>&nbsp;
 </p>
+</details> 
 
 <br/>
 
-<h3 align="left">Languages and Tools:</h3>
+<details open> 
+  <summary><h3 align="left">🛠️Languages and Tools:</h3></summary>
+
 <p align="left">  
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
@@ -174,10 +179,11 @@
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   </a> 
 </p>
+</details> 
 
 <br/>
 
-<details> 
+<details open> 
   <summary><h3 align="left">📊Github Statistics:</h3></summary>
   <br/>
   <p > 
