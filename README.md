@@ -200,6 +200,8 @@
   </p>
 </details> 
 
+<br/>
+
 <details> 
   <summary><h3>🏷️Holopin Badges</h3></summary>
 <!--   <p>
