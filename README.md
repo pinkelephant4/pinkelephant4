@@ -40,7 +40,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-pinkelephant4.vercel.app/api?username=pinkelephant4&show_icons=true&locale=en" alt="pinkelephant4" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=pinkelephant4&theme=dark" alt="pinkelephant4" /></p>
+<p><img align="center" src="[https://streak-stats.demolab.com/?user=pinkelephant4&theme=dark](https://github-readme-streak-stats-rho-taupe.vercel.app?user=pinkelephant4&theme=violet-dark&date_format=j%20M%5B%20Y%5D)" alt="pinkelephant4" /></p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinkelephant4&show_icons=true" alt="pinkelephant4" /></a> </p>
