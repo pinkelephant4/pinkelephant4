@@ -188,7 +188,8 @@
   <summary><h3 align="left">📊Github Statistics:</h3></summary>
   <br/>
   <p > 
-      <img src="https://github-profile-trophy.vercel.app/?username=pinkelephant4&show_icons=true&row=1&margin-w=15&theme=onedark&no-bg=true" alt="pinkelephant4" />
+      <img src="https://github-profile-trophy.vercel.app/?username=pinkelephant4&show_icons=true&row=1&margin-w=15&theme=onedark&no-bg=true" alt="pinkelephant4" onerror="this.onerror=null; this.src='./img/alt-img.png'" />
+<!--     <img src="img/alt-trophy.png" /> -->
   </p>
   <br/>
   <p>
