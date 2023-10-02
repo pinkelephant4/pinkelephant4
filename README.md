@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ananya Maheshwari</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6BD425&size=25&center=true&vCenter=true&width=600&height=100&lines=An+Ardent+Developer,;MERN+Stack+Dev,;Computer+Science+Student,;Zealous+Learner;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6BD425&size=25&center=true&vCenter=true&width=600&height=100&lines=An+Ardent+Developer,;MERN+Stack+Dev,;Computer+Science+Student,;Zealous+Learner;">
+  </a>
 </p>
 
 <p align="left"> &nbsp; &nbsp;<img src="https://komarev.com/ghpvc/?username=pinkelephant4&label=Profile%20views&color=50A11B&style=for-the-badge" alt="pinkelephant4" /> </p>
