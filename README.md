@@ -32,9 +32,9 @@
   <a href="https://www.leetcode.com/pink_elephant01" target="blank">
     <img height="32" width="32" src="https://cdn.simpleicons.org/LeetCode/#FFA116/" />
   </a>&nbsp;
-  <a href="https://www.leetcode.com/pink_elephant01" target="blank">
+<!--   <a href="https://www.leetcode.com/pink_elephant01" target="blank">
     <img height="32" width="32" src="https://cdn.simpleicons.org/Discord/#5865F2/" />
-  </a>&nbsp;
+  </a>&nbsp; -->
 </p>
 </details> 
 
